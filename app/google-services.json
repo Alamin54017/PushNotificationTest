@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "601718147317",
+    "project_id": "pushnotificationtest-db935",
+    "storage_bucket": "pushnotificationtest-db935.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601718147317:android:afcf7933b7867ee694ddbc",
+        "android_client_info": {
+          "package_name": "com.alamin.pushnotificationtest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi1GMbMRADnhBXpPw_MZBT5H0kt2ixvbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
